@@ -1,0 +1,14 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (if you use them later)
+venv/
+.venv/
+env/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
